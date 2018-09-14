@@ -92,7 +92,7 @@ TO = 'kelvinchao96@gmail.com'
 SUBJECT = 'Send From Python'
 TEXT = Final
 gmail_sender = 'kelvinchao96@gmail.com'
-gmail_pwd = 'KK509624.'
+gmail_pwd = '*****'
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.ehlo()
